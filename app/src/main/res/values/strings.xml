@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">bashkirov_opisanie</string>
+    <string name="strelka">TextView</string>
+    <string name="opisanie">Описание</string>
+    <string name="clear">Очистить</string>
+    <string name="backtema">TODO</string>
+    <string name="vector">TODO</string>
+    <string name="sohranit">Button</string>
+    <string name="sohran">Сохранить</string>
+    <string name="ochistit">очистить</string>
+    <string name="sohr">Сохранить</string>
+    <string name="ochist">Очистить</string>
+    <string name="Zvuk">Звук</string>
+    <string name="senceinliftlabel">Чувствительность в кабине лифта</string>
+    <string name="sencepolzunok">TODO</string>
+    <string name="senceicon">TODO</string>
+    <string name="soundlvllabel">Уровень громкости в кабине лифта</string>
+    <string name="background2">TODO</string>
+    <string name="soundicon">TODO</string>
+    <string name="backgroundback">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="iconsenceMP">TODO</string>
+    <string name="backroundsoundiviMP">TODO</string>
+    <string name="soundlvlMP">Уровень громкости в МП</string>
+    <string name="iconlvlsound">TODO</string>
+    <string name="combo1">Авто</string>
+    <string name="combo2">Авто</string>
+</resources>
